@@ -68,7 +68,7 @@ export const HomePage: React.FC = () => {
               Di Nêz De Fîlm Dê Bêne Zêdekirin
             </h1>
             <p className="text-xs sm:text-sm text-cinema-300">
-              Naveroka arşîva me ya sînemayê gelek nêz de li vir be. (Yakında filmler eklenecektir.)
+              Naveroka arşîva me ya sînemayê gelek nêz de li vir be.
             </p>
           </div>
         </div>
